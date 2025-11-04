@@ -17,7 +17,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://streamify-frontend.vercel.app", // 👈 add your deployed frontend here (if not yet deployed, keep it for later)
+      "https://streamify-frontend-q2hy.onrender.com", // 👈 add your deployed frontend here (if not yet deployed, keep it for later)
     ],
     credentials: true,
   })
